@@ -1,2 +1,2 @@
-# nosql-challenge
-Module 12  Challenge Assignment
+# Module 12 Challenge Assignment: nosql-challenge
+
