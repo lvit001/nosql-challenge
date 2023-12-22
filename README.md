@@ -1,5 +1,5 @@
 # Module 12 Challenge Assignment: nosql-challenge
-## [Parts 1 and 2: NoSQL Setp Starter](https://github.com/lvit001/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb)
+## [Parts 1 and 2: NoSQL Setup Starter](https://github.com/lvit001/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb)
 ### Part 1: Database and Jupyter Notebook Set Up
 - Successfully imported the establishments.json file using `mongoimport --type json -d uk_food -c establishments --drop --jsonArray Resources/establishments.json` and ensured that the desired database and collection were present.
 ### Part 2: Update the Database
